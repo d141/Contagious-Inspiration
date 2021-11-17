@@ -6,7 +6,7 @@ The first step was to replicate the models built here: https://paperswithcode.co
 
 The second step was examine differences in comment similarities under inspiring posts and not inspiring posts.
 
-My hypothesis was that having been inspirationally primed, I'd find a Bandwagon Effect in the comment threads underneath inspiring posts. That is, subsequent top-level comments would be similar to the top-voted, top-level comment.
+My hypothesis was that due to Redditors being 'inspirationally primed', I'd find a Bandwagon Effect in the comment threads underneath inspiring posts. That is, subsequent top-level comments would be similar to the top-voted, top-level comment.
 
 I did not find a stastically significant result that supports this hypothesis. However, it is still my intuition that there's something here.
 
